@@ -11,4 +11,4 @@ if [[ -z "$VIRTUAL_ENV" ]]; then
     source .env/bin/activate
 fi
 
-jupyter notebook
+jupyter notebook --NotebookApp.token=SuperSecretToken
