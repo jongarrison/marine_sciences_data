@@ -10,7 +10,7 @@ place: discobay
 maker: udea
 curator: icm-csic
 email: rodero@icm.csic.es
-sensors: tcs34725
+sensors: as7341
 description: calibration
 units: counts,
 latitude: 41.383189
